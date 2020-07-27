@@ -1,1 +1,1 @@
-# algorihtm-and-datastructure-with-C
+algorithm
